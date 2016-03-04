@@ -4,6 +4,11 @@
     - env("名前")で呼び出せます。`/config/database.php`とかに使ってます。
 
 
+## 状況
+とりあえず、新規登録とログインを実装
+ログイン： http://it-wiseman.com/auth/login
+新規登録： http://it-wiseman.com/auth/register
+
 # ヘイトマン構築メモ
 
 ## 構成
